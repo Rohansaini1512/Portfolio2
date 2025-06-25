@@ -125,9 +125,6 @@ The portfolio is fully responsive with breakpoints for:
 - `npm run preview` - Preview production build locally
 - `npm run lint` - Run ESLint
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
@@ -149,4 +146,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-⭐ Star this repository if you found it helpful!
